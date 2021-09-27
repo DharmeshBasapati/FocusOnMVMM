@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusOnMVMM</string>
+    <string name="label_price">$%s</string>
+</resources>
